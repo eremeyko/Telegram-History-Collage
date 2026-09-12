@@ -1,0 +1,9 @@
+story_09_r3_c3.png	85
+story_08_r3_c2.png	86
+story_07_r3_c1.png	87
+story_06_r2_c3.png	88
+story_05_r2_c2.png	89
+story_04_r2_c1.png	90
+story_03_r1_c3.png	91
+story_02_r1_c2.png	92
+story_01_r1_c1.png	93

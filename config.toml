@@ -1,0 +1,56 @@
+# UPLOAD SETTINGS
+
+# Telegram API credentials
+# Get them from https://my.telegram.org
+api_id = 12345
+api_hash = "null"
+
+# Telethon session file
+session_name = "history_junkies"
+
+# Folder with story files
+stories_dir = "iphone_stories_3x4"
+
+# Delay between uploads, in seconds
+delay_seconds = 5
+
+# Story lifetime:
+# 21600  = 6 hours
+# 43200  = 12 hours
+# 86400  = 24 hours
+# 172800 = 48 hours (Premium)
+story_period = 21600
+
+# Automatically pin stories to profile after they expire
+pin_to_profile = true
+
+# Upload in reverse order:
+# story_12 -> story_11 -> ... -> story_01
+reverse_upload_order = true
+
+# Ask for confirmation before uploading
+ask_confirmation = true
+
+
+
+# MOSAIC SETTINGS
+
+# Original Telegram Story size
+story_width = 1080
+story_height = 1920
+
+# Mosaic layout
+columns = 3
+rows = 4
+
+# Preview aspect ratio in the Telegram profile
+# Measured from an iPhone screenshot: 196 / 241
+preview_aspect_width = 196
+preview_aspect_height = 241
+
+# Fill empty areas:
+# black | transparent
+fill = "black"
+
+# Output folder
+output_dir = "iphone_stories_3x4"
